@@ -1,4 +1,4 @@
-# Intermediate Javascript Assessments
+# Intermediate Javascript Assessments 
 
 ### Without using Google answer the following:
 
