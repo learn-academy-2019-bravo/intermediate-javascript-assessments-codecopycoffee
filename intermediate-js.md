@@ -56,6 +56,8 @@ Source: https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.h
 Block scope or local scope is a collection of code (functions, variables) that is only accessible within the code block it is written. The opposite would be global scope, which is code that can be accessed anywhere in the program.
 
 //Google answer:
+A block statement (or compound statement in other languages) is used to group zero or more statements. The block is delimited by a pair of curly brackets and may optionally be labelled.
+Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block
 
 3. How would you explain the idea of "inheritance" in object oriented programming?
 //My Answer:

@@ -53,3 +53,15 @@ var letterCounter = (string) => {
 //5. Write a function called oddChecker that takes in the fullArr and uses a for loop to return a new array of only odd numbers. Copy and paste your code and refactor using ES6 syntax.
 
 var fullArr = [4, 9, 0, "7", 8, true, "hey", 7, 199, -9, false, "hola"]
+
+var oddChecker = (array) => {
+	oddsOnly = []
+	for (let i=0; i<array.length; i++) {
+    newNum = parseInt(array[i])
+		if ((newNum % 2 != 0) && (newNum != NaN)) {
+			oddsOnly.push(newNum)
+		}
+	}
+  finalArray = oddsOnly.filter(value => !Number.isNaN(value))
+  return finalArray
+}
