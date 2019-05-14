@@ -21,6 +21,7 @@ A function that takes or returns a function.
 A class is a recipe for cooking an object, and an object is an instance of its class.
 
 7. What did you learn during the group project this week? Please include any additional feedback you may have.
+The biggest thing I learned was the power of setTimeout(). Tic tac toe was definitely hard, but I think it helped me get to the next level of logic and reasoning like a computer, especially with the win condition.
 
 
 ### HTML/CSS Review questions: First, try to answer each question on your own then Google the answer to further your knowledge.
